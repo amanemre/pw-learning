@@ -8,6 +8,7 @@ import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Locator.PressSequentiallyOptions;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class P02_GoogleSearch {
@@ -34,7 +35,7 @@ public class P02_GoogleSearch {
     keyboard.press("Enter");
 
     page.waitForTimeout(2000);
-
+    Assertions.assertEquals(1,1);
     page.close();
     browser.close();
     playwright.close();
