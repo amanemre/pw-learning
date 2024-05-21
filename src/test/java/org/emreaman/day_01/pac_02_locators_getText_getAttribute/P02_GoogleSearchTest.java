@@ -11,7 +11,7 @@ import com.microsoft.playwright.Playwright;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class P02_GoogleSearch {
+public class P02_GoogleSearchTest {
 
   @Test
   void test1() {
