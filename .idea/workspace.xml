@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c511718b-981d-4836-8939-db8a970d2bd3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gcgLhOxySZIe6kKc99ueDyYVwd" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.P01_PlaywrightTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02_BasicNavigations.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_GetTitleGetUrl.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_ClickLinkWithText.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_GoogleSearch.test1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/emreaman/IdeaProjects/pw-learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.emreaman.day_01.pac_02_locators_getText_getAttribute" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.P02_GoogleSearch.test1">
+    <configuration name="P01_PlaywrightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.emreaman.day_01.pac_01_playwright_intro.P01_PlaywrightTest" />
+      <module name="pw-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.emreaman.day_01.pac_01_playwright_intro.P02_BasicNavigations" />
+      <module name="pw-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_GetTitleGetUrl.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pw-learning" />
+      <option name="PACKAGE_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute" />
+      <option name="MAIN_CLASS_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute.P01_GetTitleGetUrl" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_ClickLinkWithText.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pw-learning" />
+      <option name="PACKAGE_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute" />
+      <option name="MAIN_CLASS_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute.P02_ClickLinkWithText" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_GoogleSearch.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pw-learning" />
+      <option name="PACKAGE_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute" />
+      <option name="MAIN_CLASS_NAME" value="org.emreaman.day_01.pac_02_locators_getText_getAttribute.P02_GoogleSearch" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.P02_GoogleSearch.test1" />
+        <item itemvalue="JUnit.P02_ClickLinkWithText.test1" />
+        <item itemvalue="JUnit.P01_GetTitleGetUrl.test1" />
+        <item itemvalue="Application.P02_BasicNavigations" />
+        <item itemvalue="Application.P01_PlaywrightTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c511718b-981d-4836-8939-db8a970d2bd3" name="Changes" comment="" />
+      <created>1716002228650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716002228650</updated>
+    </task>
+    <servers />
+  </component>
+</project>
