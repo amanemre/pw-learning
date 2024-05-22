@@ -15,9 +15,9 @@ import com.microsoft.playwright.Tracing.StopOptions;
 import io.qameta.allure.Allure;
 import java.io.FileInputStream;
 import java.nio.file.Paths;
-import org.junit.After;
-import org.junit.Before;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import io.qameta.allure.Step;
 import io.qameta.allure.Epic;
@@ -32,7 +32,7 @@ public class P02_GoogleSearchTest {
   Page page;
   BrowserContext context;
 
-  @Before
+  @BeforeEach()
   public void setup() {
     playwright = Playwright.create();
     chromium = playwright.chromium();
@@ -82,7 +82,7 @@ public class P02_GoogleSearchTest {
     Assertions.assertEquals(1, 1);
   }
 
-  @After
+  @AfterEach
   public void after() {
     try {
 
