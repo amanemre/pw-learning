@@ -42,7 +42,7 @@ public class P02_GoogleSearchTest {
     context
         .tracing()
         .start(new Tracing.StartOptions().setScreenshots(true).setSnapshots(true).setSources(true));
-    page = browser.newPage();
+    page = context.newPage();
   }
 
 
